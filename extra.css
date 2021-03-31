@@ -1,0 +1,56 @@
+.red {
+	color: #f34213;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.boldred {
+  color: #f34213;
+  font-weight: bold;
+}
+
+.largest { font-size: 2.488em; }
+.larger { font-size: 2.074em; }
+.large { font-size: 1.44em;}
+.small { font-size: 0.833em; }
+.smaller { font-size: 0.694em; }
+.smallest{ font-size: 0.579em; }
+
+/* pre margin */
+pre {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+
+/* p margin */
+p {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+
+/* image size classes */
+.size-95 {display:inline-block; max-width:95%;}
+.size-90 {display:inline-block; max-width:90%;}
+.size-85 {display:inline-block; max-width:85%;}
+.size-80 {display:inline-block; max-width:80%;}
+.size-75 {display:inline-block; max-width:75%;}
+.size-70 {display:inline-block; max-width:70%;}
+.size-65 {display:inline-block; max-width:65%;}
+.size-60 {display:inline-block; max-width:60%;}
+.size-55 {display:inline-block; max-width:55%;}
+.size-50 {display:inline-block; max-width:50%;}
+.size-45 {display:inline-block; max-width:45%;}
+.size-40 {display:inline-block; max-width:40%;}
+.size-35 {display:inline-block; max-width:35%;}
+.size-30 {display:inline-block; max-width:30%;}
+.size-25 {display:inline-block; max-width:25%;}
+.size-20 {display:inline-block; max-width:20%;}
+.size-15 {display:inline-block; max-width:15%;}
+.size-10 {display:inline-block; max-width:10%;}
+
+/* background color */
+.background-yellow {
+  background-color: #FFB800;
+}
